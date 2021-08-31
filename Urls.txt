@@ -1,0 +1,32 @@
+URL01:Git Repo 
+https://github.com/Mahitha86/Udacity_Project-3
+
+URL02: S3
+http://udapeople-ad57b45.s3-website-us-west-2.amazonaws.com
+
+
+URL03: CloudFront
+d12pzg8z8rz7e9.cloudfront.net
+
+
+URL04 : EC2
+http://ec2-52-36-255-4.us-west-2.compute.amazonaws.com:3030/api/status
+
+URL05 : prometheus 
+http://ec2-34-221-170-164.us-west-2.compute.amazonaws.com:9090/targets
+
+
+
++++
+
+
+
+I have configured alerts in Slack and gmail 
+I have used two CircleCi accounts throughout  this project due to exhausted credits
+hence some of my screenshots are from Mahitha8 and few are from Mahitha86
+
+++
+
+I tried adding employee and it was sucessfull
+
+ScreenShot: Addemployee.PNG
